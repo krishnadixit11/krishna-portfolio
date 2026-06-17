@@ -83,8 +83,8 @@ Focused on:
 
 ## 🌐 Connect With Me
 - **GitHub**: [github.com/krishna](https://github.com/)  
-- **LinkedIn**: [linkedin.com/in/krishna](https://linkedin.com/)  
-- **Email**: your-email@example.com  
+- **LinkedIn**:  https://www.linkedin.com/in/krishna-dixit-5b6b17414/
+- **Email**: dixitkrishna96@gmail.com
 
 ---
 
